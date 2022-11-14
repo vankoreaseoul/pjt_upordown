@@ -1,5 +1,5 @@
 # UP or Down  주가예측모델 웹 서비스 
-
+pdf link: https://drive.google.com/file/d/13gfzzR6PAuXuUKIrDsmhy7arrXO42lNc/view?usp=share_link
 ### Browsers support
 | [<img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" alt="Chrome" width="24px" height="24px" />](http://gotbahn.github.io/browsers-support-badges/)</br>Chrome |
 | --------- |
